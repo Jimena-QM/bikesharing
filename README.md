@@ -33,3 +33,6 @@ Knowing that the most popular trip durations is less than 20 min and the populat
 Two additional visualizations that can be performed to make the presentation more robust are: 
 - Number of rides by age. This visualization can tell the marketing team what age range is best for publicity. 
 - Number of bikes by station. This will help us understand the number of bikes that may be needed in Des Moines by station.
+
+Link to Tableau Dasboard
+https://public.tableau.com/app/profile/jimena.quinones/viz/NYC_CitiBike_Challenge_16569764569040/CitiBike?publish=yes
